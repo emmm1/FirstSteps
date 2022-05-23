@@ -11,5 +11,10 @@ buildNumber.properties
 .mvn/wrapper/maven-wrapper.jar
 #IDEA
 *.iml
-.idea
-out
+.idea/
+out/
+build/
+*.iws
+*.zip
+*.log
+*.ipr
